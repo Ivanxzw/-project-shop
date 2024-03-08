@@ -1,13 +1,13 @@
 body{
     margin: 0 auto;
-    background-image: url(/img-esvi/background.jpg);
+    background-image: url(./img-esvi/background.jpg);
 }
 .header{
     height: 270px;
     display: flex;
     justify-content: space-between;
     padding: 20px;
-    background-image: url(/img-esvi/Rectangle\ 6.png);
+    background-image: url(./img-esvi/Rectangle\ 6.png);
 }
 .header-link{
     font-size: 96px;
@@ -44,7 +44,7 @@ body{
 .section-link{
     width: 40vw;
     height: 621px;
-    background-image: url(/img-esvi/Stickers.jpg);
+    background-image: url(./img-esvi/Stickers.jpg);
     background-size: cover;
     font-family: "Amarante",serif;
     border: 9px solid #DBED0B;
@@ -52,7 +52,7 @@ body{
 .section-link2{
     width: 40vw;
     height: 621px;
-    background-image: url(/img-esvi/Clothes.jpg);
+    background-image: url(./img-esvi/Clothes.jpg);
     background-size: cover;
     font-family: "Amarante",serif;
     border: 9px solid #DBED0B;
@@ -63,7 +63,7 @@ body{
     width: 90vw;
     height: 621px;
     display: flex;
-    background-image: url(/img-esvi/Picture.jpg);
+    background-image: url(./img-esvi/Picture.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     font-family: "Amarante",serif;
@@ -105,7 +105,7 @@ body{
 main{
     margin-top: 210px;
     height: 200px;
-    background-image: url(/img-esvi/Rectangle\ 7.png);
+    background-image: url(./img-esvi/Rectangle\ 7.png);
     font-family: "Amarante",serif;
 }
 .main-wrap{
