@@ -1,6 +1,4 @@
 body{
-    width: 1440px;
-    height: 1346px;
     background: linear-gradient(to bottom, #0E032D 42%, white);
     margin: 0 auto;
     padding: 0 auto;
@@ -29,7 +27,7 @@ body{
     display: flex;
     background-image: url(./img/photo_2024-02-18_15-29-34.jpg);
     background-size: 673px;
-    background-position: left;
+    background-position: center;
     background-repeat: no-repeat;
     border: #DBED0B 5px solid;
     border-radius: 0px 0px 0px 45px;
@@ -73,7 +71,7 @@ button:hover{
     color: #0E032D;
 }
 .container{
-    display: flex;
-    justify-content: space-between;
-
+display: flex;
+justify-content: space-between;
+width: 100vw;
 }
