@@ -16,7 +16,7 @@ body{
 .img-1{
     width: 665px;
     height: 595px;
-    background-image: url(/img/photo_2024-02-18_14-59-43.jpg);
+    background-image: url(./img/photo_2024-02-18_14-59-43.jpg);
     background-position: center;
     background-size: 669px;
     background-repeat: no-repeat;
@@ -27,7 +27,7 @@ body{
     width: 665px;
     height: 595px;
     display: flex;
-    background-image: url(/img/photo_2024-02-18_15-29-34.jpg);
+    background-image: url(./img/photo_2024-02-18_15-29-34.jpg);
     background-size: 673px;
     background-position: left;
     background-repeat: no-repeat;
@@ -38,7 +38,7 @@ body{
     width: 1444px;
     height: 599px;
     display: flex;
-    background-image: url(/img/photo_2024-02-18_15-53-12.jpg);
+    background-image: url(./img/photo_2024-02-18_15-53-12.jpg);
     background-size: cover;
     background-position: bottom;
     background-repeat: no-repeat;
